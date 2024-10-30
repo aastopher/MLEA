@@ -1,4 +1,4 @@
-FROM mysql:8.0.40-bookworm
+FROM mysql:8.0.40
 
 ENV MYSQL_USER=my_test
 ENV MYSQL_PASSWORD=password
