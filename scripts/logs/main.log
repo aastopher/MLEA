@@ -1,0 +1,8 @@
+2024-10-29T19:28:35.218332-0600 | INFO | __main__:connect:51 - ✅ Connection engine created successfully!
+2024-10-29T19:28:35.618151-0600 | INFO | __main__:make_test_table:67 - ✅ Test table created successfully!
+2024-10-29T19:28:35.637657-0600 | INFO | __main__:select_table:81 - ✅ Data length - 4
+2024-10-29T19:28:35.665286-0600 | INFO | __main__:cleanup_table:91 - ✅ Table test.users dropped successfully!
+2024-10-29T19:31:21.441101-0600 | INFO | __main__:connect:51 - ✅ Connection engine created successfully!
+2024-10-29T19:31:21.804086-0600 | INFO | __main__:make_test_table:67 - ✅ Test table created successfully!
+2024-10-29T19:31:21.814072-0600 | INFO | __main__:select_table:81 - ✅ Data length - 4
+2024-10-29T19:31:21.841300-0600 | INFO | __main__:cleanup_table:91 - ✅ Table test.users dropped successfully!
